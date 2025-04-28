@@ -17,8 +17,8 @@
   text-align: center;
 }
 img {
-  width: 30%;
-  border-radius: 25px;
+  width: 55%;
+  border-radius: 3px;
 }
 #profileCard:hover {
   background-color: pink;
