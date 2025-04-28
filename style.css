@@ -1,1 +1,30 @@
+#profileCard {
+  width: 50px;
+  padding: 25px;
+  border: 2px solid black;
+  margin: 30px;
+  background-color: red;
+}
+.name {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.bio {
+  font-size: 25px;
+  color: red;
+  text-align: center;
+}
+img {
+  width: 30%;
+  border-radius: 25px;
+}
+#profileCard:hover {
+  background-color: red;
+}
+
+
+
+
 
